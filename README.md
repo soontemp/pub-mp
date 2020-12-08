@@ -4,4 +4,6 @@
 
 2. Edit `Client`, Token & ID
 
-3. Run `Start.bat`
+3. Run `Install.bat`
+
+4. Run `Start.bat`
